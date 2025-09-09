@@ -9,7 +9,8 @@ import {
   Globe, 
   Sun, 
   Moon,
-  ExternalLink
+  ExternalLink,
+  Facebook
 } from 'lucide-react';
 
 interface SocialLink {
