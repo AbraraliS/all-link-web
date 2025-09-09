@@ -84,14 +84,14 @@ function App() {
     },
     {
       name: 'Twitter / X',
-      url: 'https://twitter.com/AIJustLookAt',
+      url: 'https://twitter.com/BlueStar43A',
       icon: <Twitter className="w-6 h-6" />,
       bgColor: 'from-blue-400 to-blue-600',
       hoverColor: 'hover:shadow-blue-500/25'
     }, 
     {
       name: 'YouTube',
-      url: 'https://youtube.com/@yourusername',
+      url: 'https://youtube.com/@abraralis7',
       icon: <Youtube className="w-6 h-6" />,
       bgColor: 'from-red-500 to-red-700',
       hoverColor: 'hover:shadow-red-500/25'
