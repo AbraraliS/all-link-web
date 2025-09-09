@@ -62,7 +62,7 @@ function App() {
     },
       {
       name: 'Portfolio',
-      url: 'https://yourwebsite.com',
+      url: 'https://abrarali-porfolio.vercel.app/',
       icon: <Globe className="w-6 h-6" />,
       bgColor: 'from-emerald-500 to-teal-600',
       hoverColor: 'hover:shadow-emerald-500/25'
@@ -73,6 +73,13 @@ function App() {
       icon: <Instagram className="w-6 h-6" />,
       bgColor: 'from-purple-600 via-pink-600 to-orange-500',
       hoverColor: 'hover:shadow-purple-500/25'
+    },
+      {
+      name: 'Facebook',
+      url: 'https://www.facebook.com/share/171eyKNhn6/',
+      icon: <Facebook className="w-6 h-6" />,
+      bgColor: 'from-blue-400 to-blue-600',
+      hoverColor: 'hover:shadow-blue-500/25'
     },
     {
       name: 'Twitter / X',
